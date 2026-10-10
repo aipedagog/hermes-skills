@@ -2,6 +2,8 @@
 
 Готовые навыки для вашего агента Hermes. Каждый ставится одной командой, отработан автором на своём сервере и приходит без чужих личных данных: под себя вы настраиваете его при первом запуске.
 
+Автор: Алёна Быковская, канал [«Не нанимай»](https://t.me/ne_nanimai): как отдать ИИ работу, ради которой обычно нанимают человека.
+
 ## Что внутри
 
 | Навык | Что делает | Что нужно |
@@ -36,6 +38,11 @@ hermes skills tap add aipedagog/hermes-skills
 
 Как поставить Hermes на свой сервер, подключить к нему знания и научить работать по расписанию: курс на [keybrain.ru/germes/](https://keybrain.ru/germes/).
 
-## Лицензия
+## Кто это сделал
 
-MIT. Автор: Алёна Быковская, keybrain.ru
+Навыки из библиотеки Алёны Быковской (KeyBrain). Лицензия MIT: берите, переделывайте под себя, ссылка на автора приветствуется.
+
+- Канал [«Не нанимай»](https://t.me/ne_nanimai): навыки, промпты и грабли агентов на живых задачах.
+- Курс по Hermes: [keybrain.ru/germes/](https://keybrain.ru/germes/).
+- Соседние открытые скиллы для Claude Code: [pereezzhai](https://github.com/aipedagog/pereezzhai), [voice-profile](https://github.com/aipedagog/voice-profile), [pack-skill](https://github.com/aipedagog/pack-skill).
+- Что-то не работает: заведите Issue в этом репозитории или [напишите мне в Telegram](https://t.me/Zosay).
