@@ -18,7 +18,7 @@
 hermes skills install aipedagog/hermes-skills/skills/karusel-chatgpt
 ```
 
-Или в чате с агентом: `/skills install aipedagog/hermes-skills/skills/karusel-chatgpt`.
+Команда спросит подтверждение; с ключом `--yes` в конце ставит без вопроса. По документации Hermes то же самое пишется агенту в чат: `/skills install aipedagog/hermes-skills/skills/karusel-chatgpt`.
 
 Подключить весь репозиторий как источник, чтобы новые навыки появлялись в поиске:
 
